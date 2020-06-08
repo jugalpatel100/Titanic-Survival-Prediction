@@ -1,4 +1,4 @@
 # Titanic-Survival-Prediction
-This project is a simple prediction of the titanic survival using Simple Logistic Regression and Random Forest Classifier.
+This is a practcie project for predicting the survival status of titanic travellers using simple losgistic regression and Random forest classifier.
 
 Dataset used - https://www.kaggle.com/hesh97/titanicdataset-traincsv
